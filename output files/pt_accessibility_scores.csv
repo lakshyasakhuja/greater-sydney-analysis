@@ -1,0 +1,69 @@
+sa2_code,sa2_name,stop_density_per_sqkm,z_score,pt_accessibility_score
+117031329,Darlinghurst,95.69,2.380,0.9153
+118021567,Maroubra - South,87.17,1.954,0.8758
+117031645,Sydney (South) - Haymarket,86.96,1.943,0.8747
+118021569,Randwick - North,82.66,1.728,0.8492
+117031647,Waterloo,80.25,1.608,0.8332
+118011341,Bondi Junction - Waverly,79.26,1.558,0.8261
+118011649,Bellevue Hill,74.79,1.335,0.7917
+117031644,Sydney (North) - Millers Point,73.16,1.254,0.7779
+117031331,Glebe - Forest Lodge,69.51,1.071,0.7449
+118011650,Double Bay - Darling Point,66.71,0.931,0.7173
+117031333,Potts Point - Woolloomooloo,64.91,0.842,0.6988
+117031336,Surry Hills,64.57,0.825,0.6952
+118011344,Dover Heights,63.62,0.777,0.6851
+118021654,South Coogee,63.59,0.776,0.6848
+117031641,Pyrmont,63.45,0.769,0.6832
+118021565,Kingsford,63.06,0.749,0.6789
+117031646,Ultimo,62.63,0.728,0.6743
+117031643,Rosebery - Beaconsfield,62.11,0.702,0.6685
+118021651,Coogee - Clovelly,61.40,0.666,0.6607
+116021562,Acacia Gardens,61.27,0.660,0.6592
+118011347,Woollahra,60.91,0.642,0.6552
+118011339,Bondi - Tamarama - Bronte,60.49,0.621,0.6504
+118021566,Maroubra - North,58.52,0.523,0.6278
+116031313,Bidwill - Hebersham - Emerton,57.42,0.468,0.6148
+116011561,Blacktown - West,57.32,0.463,0.6136
+118021653,Matraville - Chifley,56.24,0.409,0.6007
+118011340,Bondi Beach - North Bondi,56.09,0.401,0.5989
+117031642,Redfern,55.92,0.392,0.5969
+118011346,Rose Bay - Vaucluse - Watsons Bay,54.90,0.341,0.5845
+118021570,Randwick - South,54.86,0.339,0.5840
+117031648,Zetland,54.68,0.330,0.5819
+117031330,Erskineville - Alexandria,48.38,0.016,0.5040
+116011304,Blacktown (North) - Marayong,47.27,-0.040,0.4901
+116011627,Toongabbie - West,46.60,-0.073,0.4817
+118021568,Maroubra - West,45.93,-0.106,0.4734
+116011307,Lalor Park - Kings Langley,43.31,-0.238,0.4408
+117021327,Petersham - Stanmore,42.62,-0.272,0.4324
+116031315,Hassall Grove - Plumpton,42.22,-0.292,0.4276
+116011303,Blacktown (East) - Kings Park,41.75,-0.315,0.4218
+117031640,Newtown (NSW),41.38,-0.334,0.4173
+117011635,Mascot,41.31,-0.337,0.4164
+116031317,Mount Druitt - Whalan,40.30,-0.388,0.4042
+117011323,Pagewood - Hillsdale - Daceyville,39.76,-0.415,0.3978
+118021564,Kensington (NSW),39.74,-0.416,0.3975
+118011345,Paddington - Moore Park,38.93,-0.457,0.3878
+116021563,Quakers Hill,38.49,-0.478,0.3827
+117031638,Camperdown - Darlington,38.00,-0.503,0.3769
+117031639,Chippendale,36.62,-0.572,0.3609
+116011560,Blacktown - South,36.61,-0.572,0.3608
+116021309,Glenwood,36.14,-0.596,0.3554
+117021636,Marrickville - North,35.46,-0.630,0.3476
+117021637,Marrickville - South,35.42,-0.632,0.3471
+116031316,Lethbridge Park - Tregear,33.99,-0.703,0.3311
+116011306,Doonside - Woodcroft,32.79,-0.763,0.3180
+117011634,Eastlakes,31.14,-0.845,0.3004
+117011321,Botany,29.44,-0.930,0.2828
+116031319,Rooty Hill - Minchinbury,29.40,-0.932,0.2825
+116031314,Glendenning - Dean Park,28.39,-0.983,0.2723
+116021633,Stanhope Gardens - Parklea,27.17,-1.044,0.2604
+117021328,Sydenham - Tempe - St Peters,26.73,-1.066,0.2562
+116011626,Seven Hills - Prospect,23.60,-1.222,0.2275
+116021628,Kellyville Ridge - The Ponds,23.00,-1.252,0.2223
+118021652,Malabar - La Perouse,22.11,-1.297,0.2148
+116021632,Schofields - East,20.41,-1.382,0.2007
+116021630,Riverstone,8.98,-1.952,0.1243
+116021631,Schofields (West) - Colebee,8.72,-1.966,0.1229
+117011320,Banksmeadow,6.86,-2.059,0.1132
+116021629,Marsden Park - Shanes Park,5.27,-2.138,0.1055
